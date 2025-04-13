@@ -27,5 +27,20 @@
     <br>
 </details>
 <br>
-
+<details open>
+    <summary>
+        <h2>💻 Repositery</h2>
+    </summary>
+    <p align="left">
+        <h3>Front-end:</h3>
+        <a href="https://github.com/iamkhin-dev/TemplateStart-up" target="_blank">Template web agency</a>
+        <br>
+        <h3>Rest API:</h3>
+        <a href="https://github.com/iamkhin-dev/TicketManagementAPI" target="_blank">Ticket Management API</a>
+        <br>
+        <h3>Library:</h3>
+        <a href="https://github.com/iamkhin-dev/Moofin" target="_blank">Moofin</a>
+    </p>
+    <br>
+</details>
 
