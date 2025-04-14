@@ -33,7 +33,7 @@
     </summary>
     <p align="left">
         <h3>Front-end:</h3>
-        <a href="https://github.com/iamkhin-dev/TemplateStart-up" target="_blank">Template web agency</a>
+        <a href="https://github.com/iamkhin-dev/TemplateStart-up" target="_blank">Template web agency</a><br>
         <a href="https://github.com/iamkhin-dev/SinanpsyPortfolio" target="_blank">Sinanpsy Portfolio</a>
         <br>
         <h3>Rest API:</h3>
