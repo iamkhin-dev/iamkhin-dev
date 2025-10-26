@@ -42,6 +42,9 @@
         <br>
         <h3>Library:</h3>
         <a href="https://github.com/iamkhin-dev/Moofin" target="_blank">Moofin</a>
+        <br>
+        <h3>Cybersecurity:</h3>
+        <a href="https://github.com/iamkhin-dev/EZ" target="_blank">EZ</a>
     </p>
     <br>
 </details>
