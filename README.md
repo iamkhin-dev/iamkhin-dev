@@ -1,51 +1,32 @@
-<p align="left">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=250&color=F76F18&random=true&width=435&height=30&lines=Hi!;My+name+is+Francesco!;Welcome+to+my+GitHub+profile!" />
-</p>
-<details open>
-   <summary>
-    <h2>👨‍💻 Programming and Markup Languages</h2>
-</summary>
-<p align="left">
-    <img align="left" alt="C#" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</p>
-<br>
+### 👋 Hi there!
 
-</details>
-<br>
+🎓 I’m currently pursuing a **Bachelor’s degree in Computer Engineering & Artificial Intelligence**  
+🔐 Passionate about **Cybersecurity** and **Artificial Intelligence**  
+💡 I love exploring new technologies, building creative solutions, and learning something new every day  
 
-<details open>
-    <summary>
-        <h2>💻 Software and Tools</h2>
-    </summary>
-    <p align="left">
-        <img align="left" alt="Visual Studio" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
-        <img align="left" alt="VSCode" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-        <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-        <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    </p>
-    <br>
-</details>
-<br>
-<details open>
-    <summary>
-        <h2>💻 Repositery</h2>
-    </summary>
-    <p align="left">
-        <h3>Front-end:</h3>
-        <a href="https://github.com/iamkhin-dev/TemplateStart-up" target="_blank">Template web agency</a><br>
-        <br>
-        <h3>Rest API:</h3>
-        <a href="https://github.com/iamkhin-dev/TicketManagementAPI" target="_blank">Ticket Management API</a>
-        <br>
-        <h3>Library:</h3>
-        <a href="https://github.com/iamkhin-dev/Moofin" target="_blank">Moofin</a>
-        <br>
-        <h3>Cybersecurity:</h3>
-        <a href="https://github.com/iamkhin-dev/EZ" target="_blank">EZ</a>
-    </p>
-    <br>
-</details>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhin-dev&layout=compact&theme=radical&hide_border=true)
+
+
+## 💻 Tools
+
+| Tool | Icon |
+|------|------|
+| Visual Studio | ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg) |
+| VS Code | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg) |
+| Git | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) |
+
+
+## 📂 Repository
+
+### 🖥️ Front-end
+- [Template web agency](https://github.com/iamkhin-dev/TemplateStart-up)
+
+### ⚙️ Rest API
+- [Ticket Management API](https://github.com/iamkhin-dev/TicketManagementAPI)
+
+### 📚 Library
+- [Moofin](https://github.com/iamkhin-dev/Moofin)
+
+### 🛡️ Cybersecurity
+- [EZ](https://github.com/iamkhin-dev/EZ)
