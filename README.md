@@ -5,9 +5,6 @@
 💡 I love exploring new technologies, building creative solutions, and learning something new every day  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhin-dev&layout=compact&theme=radical&hide_border=true)
-
-
 ## 💻 Tools
 
 | Tool | Icon |
