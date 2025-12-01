@@ -1,6 +1,5 @@
 ### 👋 Hi there!
 
-🎓 I’m currently pursuing a **Bachelor’s degree in Computer Engineering & Artificial Intelligence**  
 🔐 Passionate about **Cybersecurity** and **Artificial Intelligence**  
 💡 I love exploring new technologies, building creative solutions, and learning something new every day  
 
